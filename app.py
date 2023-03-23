@@ -17,7 +17,7 @@ def quiz():
     l=["Your name?","Your Age?","Male or Female?"]
     r.set("check","false")
 
-    st.title('Counter Example')
+    st.title('Grootus')
     if 'count' not in st.session_state:
         st.session_state.count = 0
 
